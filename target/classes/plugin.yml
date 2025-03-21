@@ -1,0 +1,4 @@
+name: ArduinoMK
+version: '1.0-dev+b1'
+main: org.arduinomk.arduinoMK.ArduinoMK
+api-version: '1.20'
